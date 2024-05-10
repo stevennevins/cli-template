@@ -10,6 +10,10 @@
         "dotenv": "^16.3.1"
     },
     "devDependencies": {
-        "prettier": "^3.0.3"
+        "prettier": "^3.0.3",
+        "jest": "^28.1.0"
+    },
+    "scripts": {
+        "test": "jest"
     }
 }
