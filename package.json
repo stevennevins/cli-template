@@ -1,0 +1,15 @@
+{
+    "name": "your-package-name",
+    "version": "1.0.0",
+    "description": "Your package description",
+    "bin": {
+        "your-cli-command": "./src/cli.js"
+    },
+    "dependencies": {
+        "commander": "^12.0.0",
+        "dotenv": "^16.3.1"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.3"
+    }
+}
